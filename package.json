@@ -1,5 +1,5 @@
 {
-  "name": "projeto-typescript-e-node",
+  "name": "y",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "nodemon src/index.ts",
     "dev": "sucrase ./src -d ./dist --transforms typescript,imports"
   },
-  "author": "",
+  "author": "<otaviolgonzaga@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "@types/express": "^4.17.17",
